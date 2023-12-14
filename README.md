@@ -1,1 +1,1 @@
-Membuat werb registration form dengan desain yang simpel
+Membuat web registration form dengan desain yang simpel
